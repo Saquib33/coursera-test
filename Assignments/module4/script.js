@@ -4,7 +4,7 @@
 	for (var i = 0; i < names.length; i++) {
 		var fletter = names[i].charAt(0).toLowerCase();
 
-		if (fletter=== 'j') {
+		if (fletter === 'j') {
 			goodByeSpeaker(names[i]);
 		}
 		else{
