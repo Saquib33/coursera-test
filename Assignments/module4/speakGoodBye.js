@@ -5,3 +5,5 @@
 	}
 	window.goodByeSpeaker=goodByeSpeaker;
 })(window);
+// for goodbye speakers
+//usng IIFE

@@ -5,4 +5,7 @@
 	}
 
 	window.helloSpeaker=helloSpeaker;
+
 })(window);
+// for hello speaker
+// using IIFE
