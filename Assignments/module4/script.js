@@ -1,5 +1,5 @@
 (function (){
-	var names=["Saquib","Yaakov Sir","Jane","Rahul","James","Julie"];
+	var names=["Saquib","Yaakov Sir","Jane","Rahul","James","Julie","Jason","jakob","Andrew"];
 
 	for (var i = 0; i < names.length; i++) {
 		var fletter = names[i].charAt(0).toLowerCase();
